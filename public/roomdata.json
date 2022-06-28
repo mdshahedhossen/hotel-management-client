@@ -1,0 +1,45 @@
+[
+    {
+        "_id": 1,
+        "name": "Regular room",
+        "price": "200",
+        "description": "One bad couple",
+        "img": "https://i.ibb.co/crVmbPj/room6.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Vip Room",
+        "price": "400",
+        "description": "2 bads, at a time 4 person stay this room",
+        "img": "https://i.ibb.co/5jgmscj/room5.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "VVIP Room",
+        "price": "500",
+        "description": "For couple",
+        "img": "https://i.ibb.co/8d8tXr2/room4.jpg"
+    },
+    {
+        "_id": 4,
+        "name": "Vip Room",
+        "price": "350",
+        "description": "2 bads, at a time 4 person stay this room",
+        "img": "https://i.ibb.co/jyZRbVz/room03.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "Regular Room",
+        "price": "250",
+        "description": "1 bads",
+        "img": "https://i.ibb.co/317N3gV/room02.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Queens Room",
+        "price": "330",
+        "description": "1 bads",
+        "img": "https://i.ibb.co/ChjHbT1/room1.jpg"
+    }
+    
+]
